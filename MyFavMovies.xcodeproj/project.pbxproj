@@ -14,6 +14,27 @@
 		0D7011511A96B21500589EC3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D7011501A96B21500589EC3 /* Images.xcassets */; };
 		0D7011541A96B21500589EC3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D7011521A96B21500589EC3 /* LaunchScreen.xib */; };
 		0D7011601A96B21500589EC3 /* MyFavMoviesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D70115F1A96B21500589EC3 /* MyFavMoviesTests.swift */; };
+		0DA2A0AE1A9C139200B0627C /* 47 Ronin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0991A9C139200B0627C /* 47 Ronin.jpg */; };
+		0DA2A0AF1A9C139200B0627C /* 300.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A09A1A9C139200B0627C /* 300.jpg */; };
+		0DA2A0B01A9C139200B0627C /* Blade.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A09B1A9C139200B0627C /* Blade.jpg */; };
+		0DA2A0B11A9C139200B0627C /* Formula 51.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A09C1A9C139200B0627C /* Formula 51.jpg */; };
+		0DA2A0B21A9C139200B0627C /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A09D1A9C139200B0627C /* Main.png */; };
+		0DA2A0B31A9C139200B0627C /* Maina.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A09E1A9C139200B0627C /* Maina.png */; };
+		0DA2A0B41A9C139200B0627C /* Movie Icon 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A09F1A9C139200B0627C /* Movie Icon 29.png */; };
+		0DA2A0B51A9C139200B0627C /* Movie Icon 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A01A9C139200B0627C /* Movie Icon 40.png */; };
+		0DA2A0B61A9C139200B0627C /* Movie Icon 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A11A9C139200B0627C /* Movie Icon 58.png */; };
+		0DA2A0B71A9C139200B0627C /* Movie Icon 76.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A21A9C139200B0627C /* Movie Icon 76.png */; };
+		0DA2A0B81A9C139200B0627C /* Movie Icon 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A31A9C139200B0627C /* Movie Icon 80.png */; };
+		0DA2A0B91A9C139200B0627C /* Movie Icon 152.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A41A9C139200B0627C /* Movie Icon 152.png */; };
+		0DA2A0BA1A9C139200B0627C /* Movie Icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A51A9C139200B0627C /* Movie Icon.jpg */; };
+		0DA2A0BB1A9C139200B0627C /* Pacific Rim.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A61A9C139200B0627C /* Pacific Rim.jpg */; };
+		0DA2A0BC1A9C139200B0627C /* Snatch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A71A9C139200B0627C /* Snatch.jpg */; };
+		0DA2A0BD1A9C139200B0627C /* Sucker Punch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A81A9C139200B0627C /* Sucker Punch.jpg */; };
+		0DA2A0BE1A9C139200B0627C /* The BoonDock Saints.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0A91A9C139200B0627C /* The BoonDock Saints.jpg */; };
+		0DA2A0BF1A9C139200B0627C /* The Fast and Furious.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0AA1A9C139200B0627C /* The Fast and Furious.jpg */; };
+		0DA2A0C01A9C139200B0627C /* The Rock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0AB1A9C139200B0627C /* The Rock.jpg */; };
+		0DA2A0C11A9C139200B0627C /* Tombstone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0AC1A9C139200B0627C /* Tombstone.jpg */; };
+		0DA2A0C21A9C139200B0627C /* Transporter 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DA2A0AD1A9C139200B0627C /* Transporter 3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +59,27 @@
 		0D7011591A96B21500589EC3 /* MyFavMoviesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFavMoviesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D70115E1A96B21500589EC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D70115F1A96B21500589EC3 /* MyFavMoviesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFavMoviesTests.swift; sourceTree = "<group>"; };
+		0DA2A0991A9C139200B0627C /* 47 Ronin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "47 Ronin.jpg"; sourceTree = "<group>"; };
+		0DA2A09A1A9C139200B0627C /* 300.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 300.jpg; sourceTree = "<group>"; };
+		0DA2A09B1A9C139200B0627C /* Blade.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Blade.jpg; sourceTree = "<group>"; };
+		0DA2A09C1A9C139200B0627C /* Formula 51.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Formula 51.jpg"; sourceTree = "<group>"; };
+		0DA2A09D1A9C139200B0627C /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
+		0DA2A09E1A9C139200B0627C /* Maina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Maina.png; sourceTree = "<group>"; };
+		0DA2A09F1A9C139200B0627C /* Movie Icon 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movie Icon 29.png"; sourceTree = "<group>"; };
+		0DA2A0A01A9C139200B0627C /* Movie Icon 40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movie Icon 40.png"; sourceTree = "<group>"; };
+		0DA2A0A11A9C139200B0627C /* Movie Icon 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movie Icon 58.png"; sourceTree = "<group>"; };
+		0DA2A0A21A9C139200B0627C /* Movie Icon 76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movie Icon 76.png"; sourceTree = "<group>"; };
+		0DA2A0A31A9C139200B0627C /* Movie Icon 80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movie Icon 80.png"; sourceTree = "<group>"; };
+		0DA2A0A41A9C139200B0627C /* Movie Icon 152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Movie Icon 152.png"; sourceTree = "<group>"; };
+		0DA2A0A51A9C139200B0627C /* Movie Icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Movie Icon.jpg"; sourceTree = "<group>"; };
+		0DA2A0A61A9C139200B0627C /* Pacific Rim.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pacific Rim.jpg"; sourceTree = "<group>"; };
+		0DA2A0A71A9C139200B0627C /* Snatch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Snatch.jpg; sourceTree = "<group>"; };
+		0DA2A0A81A9C139200B0627C /* Sucker Punch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sucker Punch.jpg"; sourceTree = "<group>"; };
+		0DA2A0A91A9C139200B0627C /* The BoonDock Saints.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The BoonDock Saints.jpg"; sourceTree = "<group>"; };
+		0DA2A0AA1A9C139200B0627C /* The Fast and Furious.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Fast and Furious.jpg"; sourceTree = "<group>"; };
+		0DA2A0AB1A9C139200B0627C /* The Rock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Rock.jpg"; sourceTree = "<group>"; };
+		0DA2A0AC1A9C139200B0627C /* Tombstone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tombstone.jpg; sourceTree = "<group>"; };
+		0DA2A0AD1A9C139200B0627C /* Transporter 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Transporter 3.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +103,7 @@
 		0D7011391A96B21500589EC3 = {
 			isa = PBXGroup;
 			children = (
+				0D7011691A96B3F000589EC3 /* Images */,
 				0D7011441A96B21500589EC3 /* MyFavMovies */,
 				0D70115C1A96B21500589EC3 /* MyFavMoviesTests */,
 				0D7011431A96B21500589EC3 /* Products */,
@@ -115,6 +158,34 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		0D7011691A96B3F000589EC3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				0DA2A0991A9C139200B0627C /* 47 Ronin.jpg */,
+				0DA2A09A1A9C139200B0627C /* 300.jpg */,
+				0DA2A09B1A9C139200B0627C /* Blade.jpg */,
+				0DA2A09C1A9C139200B0627C /* Formula 51.jpg */,
+				0DA2A09D1A9C139200B0627C /* Main.png */,
+				0DA2A09E1A9C139200B0627C /* Maina.png */,
+				0DA2A09F1A9C139200B0627C /* Movie Icon 29.png */,
+				0DA2A0A01A9C139200B0627C /* Movie Icon 40.png */,
+				0DA2A0A11A9C139200B0627C /* Movie Icon 58.png */,
+				0DA2A0A21A9C139200B0627C /* Movie Icon 76.png */,
+				0DA2A0A31A9C139200B0627C /* Movie Icon 80.png */,
+				0DA2A0A41A9C139200B0627C /* Movie Icon 152.png */,
+				0DA2A0A51A9C139200B0627C /* Movie Icon.jpg */,
+				0DA2A0A61A9C139200B0627C /* Pacific Rim.jpg */,
+				0DA2A0A71A9C139200B0627C /* Snatch.jpg */,
+				0DA2A0A81A9C139200B0627C /* Sucker Punch.jpg */,
+				0DA2A0A91A9C139200B0627C /* The BoonDock Saints.jpg */,
+				0DA2A0AA1A9C139200B0627C /* The Fast and Furious.jpg */,
+				0DA2A0AB1A9C139200B0627C /* The Rock.jpg */,
+				0DA2A0AC1A9C139200B0627C /* Tombstone.jpg */,
+				0DA2A0AD1A9C139200B0627C /* Transporter 3.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -164,6 +235,7 @@
 				TargetAttributes = {
 					0D7011411A96B21500589EC3 = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = LAK6SGQ7Q5;
 					};
 					0D7011581A96B21500589EC3 = {
 						CreatedOnToolsVersion = 6.1;
@@ -195,8 +267,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DA2A0B71A9C139200B0627C /* Movie Icon 76.png in Resources */,
+				0DA2A0BC1A9C139200B0627C /* Snatch.jpg in Resources */,
+				0DA2A0BA1A9C139200B0627C /* Movie Icon.jpg in Resources */,
+				0DA2A0C01A9C139200B0627C /* The Rock.jpg in Resources */,
+				0DA2A0B01A9C139200B0627C /* Blade.jpg in Resources */,
+				0DA2A0AE1A9C139200B0627C /* 47 Ronin.jpg in Resources */,
+				0DA2A0BD1A9C139200B0627C /* Sucker Punch.jpg in Resources */,
+				0DA2A0BB1A9C139200B0627C /* Pacific Rim.jpg in Resources */,
+				0DA2A0B91A9C139200B0627C /* Movie Icon 152.png in Resources */,
+				0DA2A0B51A9C139200B0627C /* Movie Icon 40.png in Resources */,
+				0DA2A0C21A9C139200B0627C /* Transporter 3.jpg in Resources */,
+				0DA2A0B61A9C139200B0627C /* Movie Icon 58.png in Resources */,
+				0DA2A0B31A9C139200B0627C /* Maina.png in Resources */,
+				0DA2A0AF1A9C139200B0627C /* 300.jpg in Resources */,
 				0D70114F1A96B21500589EC3 /* Main.storyboard in Resources */,
+				0DA2A0B21A9C139200B0627C /* Main.png in Resources */,
+				0DA2A0B41A9C139200B0627C /* Movie Icon 29.png in Resources */,
+				0DA2A0B81A9C139200B0627C /* Movie Icon 80.png in Resources */,
 				0D7011541A96B21500589EC3 /* LaunchScreen.xib in Resources */,
+				0DA2A0BF1A9C139200B0627C /* The Fast and Furious.jpg in Resources */,
+				0DA2A0C11A9C139200B0627C /* Tombstone.jpg in Resources */,
+				0DA2A0BE1A9C139200B0627C /* The BoonDock Saints.jpg in Resources */,
+				0DA2A0B11A9C139200B0627C /* Formula 51.jpg in Resources */,
 				0D7011511A96B21500589EC3 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -342,9 +435,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = MyFavMovies/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -352,9 +447,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = MyFavMovies/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
@@ -411,6 +508,7 @@
 				0D7011651A96B21500589EC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0D7011661A96B21500589EC3 /* Build configuration list for PBXNativeTarget "MyFavMoviesTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +517,7 @@
 				0D7011681A96B21500589EC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
